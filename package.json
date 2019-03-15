@@ -35,9 +35,13 @@
     "standard-version": "^4.4.0"
   },
   "dependencies": {
+    "bufferutil": "^4.0.1",
     "commander": "^2.17.1",
     "csv": "^3.1.0",
     "isomorphic-fetch": "^2.2.1",
-    "web3": "^1.0.0-beta.35"
+    "scrypt": "^6.0.3",
+    "sha3": "^2.0.0",
+    "validation": "^0.0.1",
+    "web3": "1.0.0-beta.37"
   }
 }
